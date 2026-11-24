@@ -1,51 +1,56 @@
-# Hi, I'm Shadmehr 👋
+# Shadmehr Yazdani
 
-**Full-Stack Developer · Web Products · AI-powered Applications**
+**I build web products, full-stack applications, and practical AI-powered tools.**
 
-I build practical web applications and developer tools, from user-facing interfaces to backend workflows. I enjoy turning ideas into usable products and continuously improving the engineering behind them.
+Full-stack developer focused on turning product ideas into usable software — from responsive interfaces to APIs, data models, and workflow automation.
 
-[Portfolio](https://shadweb.site) · [LinkedIn](https://www.linkedin.com/in/shadweb) · [GitHub](https://github.com/ShadWeb)
-
----
-
-## About me
-
-- 💻 Focused on building full-stack web applications and SaaS products.
-- ⚛️ Working with **JavaScript, TypeScript, React, and Next.js**.
-- 🔧 Building backend features and APIs with **Node.js** and **Laravel**.
-- 🤖 Exploring **LLM integrations, AI-assisted workflows, and automation**.
-- 🛠️ Developing independent products and experiments under **ShadWeb**.
-- 🌱 Currently strengthening backend engineering, databases, security, and deployment skills.
-
-## Featured projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [NobatLink](https://github.com/ShadWeb/nobatlinklaravel) | Appointment-booking platform with business management and booking flows. | Laravel, Inertia, React, TypeScript, PostgreSQL |
-| [Video Agent](https://github.com/ShadWeb/video-agent) | CLI workflow for generating narrated videos from a topic or URL. | Python, Node.js, LiteLLM, Playwright, FFmpeg |
-
-## Technologies
-
-**Frontend**  
-JavaScript · TypeScript · React · Next.js · HTML · CSS
-
-**Backend & data**  
-Node.js · Express.js · Laravel · REST APIs · PostgreSQL
-
-**AI & automation**  
-Python · LLM APIs · LiteLLM · Playwright
-
-**Tools**  
-Git · GitHub · Vite
+[Website](https://shadweb.site) · [LinkedIn](https://www.linkedin.com/in/shadweb) · [Email](mailto:shyifou@gmail.com)
 
 ---
 
-## Connect
+## Selected work
 
-- 🌐 Website: [shadweb.site](https://shadweb.site)
-- 💼 LinkedIn: [linkedin.com/in/shadweb](https://www.linkedin.com/in/shadweb)
-- 🧑‍💻 GitHub: [@ShadWeb](https://github.com/ShadWeb)
+### [SepCoach](https://github.com/ShadWeb/sepcoach)
+A Persian RTL coaching platform for assessments, paid workout and nutrition plans, coach workflows, student progress, and service history.
+
+**Engineering focus:** Next.js, React, TypeScript, PostgreSQL, Prisma, authentication, payments, and production workflows.
+
+### [NobatLink](https://github.com/ShadWeb/nobatlinklaravel)
+An appointment-booking product with public business pages, availability, booking flows, OTP authentication, and owner-side service and working-hour management.
+
+**Stack:** Laravel, PHP, React, Inertia.js, TypeScript, Vite.
+
+### [Video Agent](https://github.com/ShadWeb/video-agent)
+A command-line workflow that turns a topic or website into a narrated MP4, combining LLM-powered scripting, browser recording, text-to-speech, and video rendering.
+
+**Stack:** Node.js, Python, LiteLLM, Playwright, edge-tts, FFmpeg.
 
 ---
 
-*Building, learning, and shipping — one project at a time.*
+## Current engineering focus
+
+- Building maintainable frontend applications with **React, TypeScript, and Next.js**.
+- Developing backend features, APIs, authentication, and data workflows with **Node.js and Laravel**.
+- Improving database design and application security with **PostgreSQL**.
+- Exploring **LLM integrations and AI-assisted automation** with Python and developer tools.
+
+## Tools I work with
+
+**Frontend:** JavaScript · TypeScript · React · Next.js · Inertia.js · Vite  
+**Backend:** Node.js · Laravel · REST APIs  
+**Data:** PostgreSQL · Prisma  
+**AI & automation:** Python · LLM APIs · LiteLLM · Playwright  
+**Workflow:** Git · GitHub · Linux
+
+---
+
+## What I value
+
+- Clear product thinking and useful software.
+- Readable code, explicit trade-offs, and maintainable architecture.
+- Security and data integrity as part of the implementation — not last-minute additions.
+- Shipping, measuring, and improving real workflows.
+
+**Open to:** Full-stack web development roles, remote opportunities, and thoughtful collaborations.
+
+[Explore my repositories](https://github.com/ShadWeb?tab=repositories) · [Get in touch](https://shadweb.site)
