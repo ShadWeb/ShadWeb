@@ -4,7 +4,7 @@
 
 Full-stack developer focused on turning product ideas into usable software — from responsive interfaces to APIs, data models, and workflow automation.
 
-[Website](https://shadweb.site) · [LinkedIn](https://www.linkedin.com/in/shadweb) · [Email](mailto:shyifou@gmail.com)
+[Website](https://shadweb.site) · [LinkedIn](https://www.linkedin.com/in/shadweb)
 
 ---
 
