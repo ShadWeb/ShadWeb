@@ -1,10 +1,18 @@
+<!-- Profile README: concise, project-first, and evidence-based. -->
+
+<div align="center">
+
 # Shadmehr Yazdani
 
-**I build web products, full-stack applications, and practical AI-powered tools.**
+**Full-Stack Developer · Web Products · AI-powered Tools**
 
-Full-stack developer focused on turning product ideas into usable software — from responsive interfaces to APIs, data models, and workflow automation.
+I turn product ideas into usable software — from responsive interfaces and APIs to data workflows and practical automation.
 
-[Website](https://shadweb.site) · [LinkedIn](https://www.linkedin.com/in/shadweb)
+[![Website](https://img.shields.io/badge/Website-shadweb.site-111827?style=flat&logo=googlechrome&logoColor=white)](https://shadweb.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadweb)
+[![GitHub](https://img.shields.io/badge/GitHub-ShadWeb-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShadWeb)
+
+</div>
 
 ---
 
@@ -18,7 +26,8 @@ A Persian RTL coaching platform for assessments, paid workout and nutrition plan
 ### [NobatLink](https://github.com/ShadWeb/nobatlinklaravel)
 An appointment-booking product with public business pages, availability, booking flows, OTP authentication, and owner-side service and working-hour management.
 
-**Stack:** Laravel, PHP, React, Inertia.js, TypeScript, Vite.
+**Stack:** Laravel, PHP, React, Inertia.js, TypeScript, Vite.  
+**Status:** MVP / active development.
 
 ### [Video Agent](https://github.com/ShadWeb/video-agent)
 A command-line workflow that turns a topic or website into a narrated MP4, combining LLM-powered scripting, browser recording, text-to-speech, and video rendering.
@@ -27,6 +36,12 @@ A command-line workflow that turns a topic or website into a narrated MP4, combi
 
 ---
 
+## Technologies I've worked with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,laravel,php,postgres,prisma,python,playwright,vite,tailwind,git,linux&perline=8" alt="JavaScript, TypeScript, React, Next.js, Node.js, Laravel, PHP, PostgreSQL, Prisma, Python, Playwright, Vite, Tailwind CSS, Git, Linux" />
+</p>
+
 ## Current engineering focus
 
 - Building maintainable frontend applications with **React, TypeScript, and Next.js**.
@@ -34,13 +49,12 @@ A command-line workflow that turns a topic or website into a narrated MP4, combi
 - Improving database design and application security with **PostgreSQL**.
 - Exploring **LLM integrations and AI-assisted automation** with Python and developer tools.
 
-## Tools I work with
+## GitHub activity
 
-**Frontend:** JavaScript · TypeScript · React · Next.js · Inertia.js · Vite  
-**Backend:** Node.js · Laravel · REST APIs  
-**Data:** PostgreSQL · Prisma  
-**AI & automation:** Python · LLM APIs · LiteLLM · Playwright  
-**Workflow:** Git · GitHub · Linux
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShadWeb&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="ShadWeb GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadWeb&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages on ShadWeb repositories" />
+</p>
 
 ---
 
